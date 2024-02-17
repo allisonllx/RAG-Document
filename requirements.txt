@@ -5,3 +5,5 @@ langchain-openai
 chromadb
 bs4
 streamlit
+pypdf
+python-docx
