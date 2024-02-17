@@ -1,5 +1,5 @@
 # RAG-Document
-Upload documents (`txt`, `pdf`, `docx`) to the app and ask the Large Language Model (LLM) any question regarding the documents' content!
+Upload documents (`txt`, `pdf`, `docx`) to the `Streamlit` app and ask the Large Language Model (LLM) any question regarding the documents' content!
 
 # Step-by-step Instructions
 The setup assumes that you already have `python` installed and virtual environment activated. You are also required to create your personal `OPENAI` key from the OPENAI website.
