@@ -1,9 +1,25 @@
 langchain
 langchain-community
 langchainhub
-langchain-openai
 chromadb
 bs4
 streamlit
 pypdf
 python-docx
+
+# for use of openai
+langchain-openai
+
+# for use of non-openai embeddings
+huggingface-hub
+sentence-transformers
+
+# for use of gguf model cards
+llama-cpp-python
+cmake
+
+# for use of huggingface models 
+transformers
+bitsandbytes
+torch
+accelerate
